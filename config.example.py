@@ -1,0 +1,19 @@
+WIFI_SSID = "nama-wifi"
+WIFI_PASSWORD = "kata-sandi-wifi"
+
+BROKER_IP = "192.168.1.5"
+BROKER_PORT = 1883
+MQTT_USER = "totem-001"
+MQTT_PASSWORD = "--kata-sandi-mqtt--"
+
+DEVICE_ID = "totem-001"
+
+DEFAULT_VOLUME = 40
+MAX_VOLUME = 80
+ALLOWED_AUDIO_HOST = ""
+
+KEEPALIVE = 30
+RECONNECT_DELAY = 5
+
+PIN_BCLK = 26
+PIN_DIN = 28
